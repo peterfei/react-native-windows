@@ -1,0 +1,103 @@
+{
+  "_args": [
+    [
+      "react-native-windows@0.55.0-rc.0",
+      "D:\\Vesal\\Vesal_PC"
+    ]
+  ],
+  "_from": "react-native-windows@0.55.0-rc.0",
+  "_id": "react-native-windows@0.55.0-rc.0",
+  "_inBundle": false,
+  "_integrity": "sha1-6k/Ul8qbb3xEi4D/ADxYHlcRhAw=",
+  "_location": "/react-native-windows",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-windows@0.55.0-rc.0",
+    "name": "react-native-windows",
+    "escapedName": "react-native-windows",
+    "rawSpec": "0.55.0-rc.0",
+    "saveSpec": null,
+    "fetchSpec": "0.55.0-rc.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/react-native-windows/download/react-native-windows-0.55.0-rc.0.tgz",
+  "_spec": "0.55.0-rc.0",
+  "_where": "D:\\Vesal\\Vesal_PC",
+  "bugs": {
+    "url": "https://github.com/ReactWindows/react-native-windows/issues"
+  },
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "glob": "^7.1.1",
+    "shelljs": "^0.7.8",
+    "username": "^3.0.0",
+    "uuid": "^2.0.1",
+    "xml-parser": "^1.2.1",
+    "yeoman-environment": "^1.5.3",
+    "yeoman-generator": "^0.21.2"
+  },
+  "description": "React Native platform extensions for the Universal Windows Platform.",
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.17.0",
+    "eslint-config-fb-strict": "^22.1.0",
+    "eslint-config-fbjs": "^2.0.1",
+    "eslint-plugin-babel": "^4.1.1",
+    "eslint-plugin-flowtype": "^2.43.0",
+    "eslint-plugin-prettier": "^2.6.0",
+    "eslint-plugin-react": "^7.6.1",
+    "flow-bin": "^0.67.1",
+    "https-proxy-agent": "^1.0.0",
+    "jasmine": "^2.6.0",
+    "jasmine-reporters": "^2.2.1",
+    "minimist": "^1.2.0",
+    "prettier": "^1.9.1",
+    "react": "^16.3.0-alpha.1",
+    "react-devtools-core": "3.1.0",
+    "react-native": "~0.55.0",
+    "selenium-webdriver": "2.48.x"
+  },
+  "engineStrict": true,
+  "engines": {
+    "node": ">=4"
+  },
+  "files": [
+    "Libraries",
+    "ReactWindows/ReactNative",
+    "ReactWindows/ReactNative.Shared",
+    "ReactWindows/ReactNative.Net46",
+    "ReactWindows/ReactNativeWebViewBridge",
+    "ReactWindows/ChakraBridge",
+    "Yoga/csharp/Facebook.Yoga",
+    "Yoga/csharp/Yoga",
+    "Yoga/yoga",
+    "local-cli",
+    "README.md"
+  ],
+  "homepage": "https://github.com/ReactWindows/react-native-windows#readme",
+  "license": "MIT",
+  "main": "Libraries/react-native-windows/react-native-windows-implementation.js",
+  "name": "react-native-windows",
+  "peerDependencies": {
+    "react": "^16.3.0-alpha.1",
+    "react-native": "~0.55.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ReactWindows/react-native-windows.git"
+  },
+  "rnpm": {
+    "plugin": "./local-cli/index.js",
+    "platform": "./local-cli/platform.js"
+  },
+  "scripts": {
+    "flow-check": "flow check",
+    "lint": "eslint .",
+    "test": "jasmine"
+  },
+  "version": "0.55.0-rc.0"
+}

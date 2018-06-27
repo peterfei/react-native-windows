@@ -1,0 +1,16 @@
+﻿  Utils.cpp
+  YGEnums.cpp
+  YGLayout.cpp
+  YGNode.cpp
+  YGNodePrint.cpp
+  YGStyle.cpp
+  Yoga.cpp
+d:\vesal\vesal_pc\node_modules\react-native-windows\yoga\yoga\yoga.cpp(1717): warning C4244: “=”: 从“uint32_t”转换到“float”，可能丢失数据
+d:\vesal\vesal_pc\node_modules\react-native-windows\yoga\yoga\yoga.cpp(2513): warning C4244: “=”: 从“float”转换到“uint32_t”，可能丢失数据
+d:\vesal\vesal_pc\node_modules\react-native-windows\yoga\yoga\yoga.cpp(3150): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  YGInterop.cpp
+  stdafx.cpp
+  正在生成代码...
+  dllmain.cpp
+    正在创建库 bin\x64\Debug\yoga.lib 和对象 bin\x64\Debug\yoga.exp
+  Yoga.vcxproj -> D:\Vesal\Vesal_PC\node_modules\react-native-windows\Yoga\csharp\Yoga\bin\x64\Debug\yoga.dll
