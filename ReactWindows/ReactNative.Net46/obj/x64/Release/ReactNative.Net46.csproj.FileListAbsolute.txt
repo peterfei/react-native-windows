@@ -1,4 +1,3 @@
-D:\Vesal\Vesal_PC\node_modules\react-native-windows\ReactWindows\ReactNative.Net46\obj\x64\Release\ReactNative.Net46.csprojAssemblyReference.cache
 D:\Vesal\Vesal_PC\node_modules\react-native-windows\ReactWindows\ReactNative.Net46\obj\x64\Release\Interop.NETWORKLIST.dll
 D:\Vesal\Vesal_PC\node_modules\react-native-windows\ReactWindows\ReactNative.Net46\obj\x64\Release\ReactNative.Net46.csproj.ResolveComReference.cache
 D:\Vesal\Vesal_PC\node_modules\react-native-windows\ReactWindows\ReactNative.Net46\obj\x64\Release\DevSupport\DevOptionDialog.g.cs
@@ -42,3 +41,4 @@ D:\Vesal\Vesal_PC\node_modules\react-native-windows\ReactWindows\ReactNative.Net
 D:\Vesal\Vesal_PC\node_modules\react-native-windows\ReactWindows\ReactNative.Net46\obj\x64\Release\ReactNative.Net46.csproj.CoreCompileInputs.cache
 D:\Vesal\Vesal_PC\node_modules\react-native-windows\ReactWindows\ReactNative.Net46\obj\x64\Release\ReactNative.Net46.csproj.CopyComplete
 D:\Vesal\Vesal_PC\node_modules\react-native-windows\ReactWindows\ReactNative.Net46\obj\x64\Release\ReactNative.Net46.dll
+D:\Vesal\Vesal_PC\node_modules\react-native-windows\ReactWindows\ReactNative.Net46\obj\x64\Release\ReactNative.Net46.csprojAssemblyReference.cache

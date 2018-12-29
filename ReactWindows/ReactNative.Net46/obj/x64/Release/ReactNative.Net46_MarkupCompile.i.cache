@@ -4,17 +4,17 @@
 library
 C#
 .cs
-D:\Vesal\Vesal_PC\node_modules\react-native-windows\ReactWindows\ReactNative.Net46\obj\x86\Debug\
+D:\Vesal\Vesal_PC\node_modules\react-native-windows\ReactWindows\ReactNative.Net46\obj\x64\Release\
 ReactNative.Net46
 none
 false
-DEBUG;NET46
+
 
 41837014141
-2-1051231022
-3282121619576
-842135281654
+2-2099212822
+3321611477292
+301683737226
 DevSupport\Resources\Styles.xaml;DevSupport\DevOptionDialog.xaml;DevSupport\ProgressDialog.xaml;DevSupport\RedBoxDialog.xaml;
 
-False
+True
 
